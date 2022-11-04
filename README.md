@@ -1,8 +1,12 @@
 ### Contact to me:
 [![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/kokosDev)
 
+___
+
 ### Vibe:
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31gwnrnsyayl7lfaooiauxgo35oy&count=1)
+
+___
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=makszemlyanko)
 
