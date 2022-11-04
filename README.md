@@ -1,4 +1,6 @@
-### Hi there 👋
+### Spotify :headphones:
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31gwnrnsyayl7lfaooiauxgo35oy)
 
 <!--
 **makszemlyanko/makszemlyanko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
