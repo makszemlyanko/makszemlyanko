@@ -1,8 +1,7 @@
 
 <a href = "https://t.me/aliakseikln"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:maks.kokoc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-
+<a href = "mailto:maks.kokoc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "https://open.spotify.com/user/31gwnrnsyayl7lfaooiauxgo35oy"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31gwnrnsyayl7lfaooiauxgo35oy&count=1)
 
