@@ -4,7 +4,7 @@
 ### Vibe:
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31gwnrnsyayl7lfaooiauxgo35oy&count=1)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=makszemlyanko)
 
 <!--
 **makszemlyanko/makszemlyanko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
